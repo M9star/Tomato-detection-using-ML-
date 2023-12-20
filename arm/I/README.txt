@@ -1,0 +1,1 @@
+Robotic arm: gripper (part 1/3) by LimpSquid on Thingiverse: https://www.thingiverse.com/thing:1748596
