@@ -26,12 +26,15 @@
 ## What are we doing
 
 
+
 ## Base Research Papers
 1. K. N. T. H. a. M. I. Hiroaki Yaguchi, "Development of An Autonomous Tomato Harvesting Robot with," International Conference on Intelligent Robots and Systems (IROS), 2016. 
 2. 2. ,. S. M. 2. a. J. H. K. 2. Guoxu Liu 1, "A Mature-Tomato Detection Algorithm Using Machine," International Conference on Machine Learning and Computing (ICMLC), 2019. 
 3. X. W. G. W. Z. L. Qingchun Feng, "Design and Test of Tomatoes Harvesting Robot," International Conference on Information and Automation, 2015. 
 4. F. z. Chen Huangfei, "Design and research on the End Actuator of Tomato Picking," IOP Conf. Series, 2019. 
 5. J. X. Tao Zhu*, "Chassis Design of Tomato Picking Robot in the Greenh," Journal of Physics: Conference Series, 2021.
+- [Access the Folder](Research-paper)
+
 
 ## Technology Stack
 Our technology stack includes a variety of tools and frameworks, such as Node.js, React, and MongoDB. We chose these technologies for their widespread use in the industry and large developer communities.
@@ -82,7 +85,8 @@ In this section, we discuss key considerations for robot arm design and selectio
 
 When choosing a robot arm for tomato harvesting, it's essential to take into account...
 
-![Robot Arm Design](C:\Users\M9\Desktop\Major_project\TomatoHarvesting\ROBOT_ARM\images/ARM.jpg)
+![Robot Arm Design](C:/Users/M9/Desktop/Major_project/TomatoHarvesting/ROBOT_ARM/images/ARM.jpg)
+
 
 For more in-depth information on robot arm design, visit [Robot Design Info](https://www.thingiverse.com/thing:2465275)
 
