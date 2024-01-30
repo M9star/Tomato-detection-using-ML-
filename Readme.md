@@ -1,4 +1,4 @@
-# Advancing Tomato Harvesting: An Automation with Machine Learning Approach
+# Tomato Harvesting: An Automation with Machine Learning Approach
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,15 +10,18 @@
   - [IDE](#ide)
   - [Libraries](#libraries)
   - [Dataset](#dataset)
+- [Dataset's ](#dataset)
 - [Further Reading](#further-reading)
+
 - [Screenshots](#screenshots)
 - [Results](#results)
+- [Robot Arm Design and Selection](#robot-arm-design-and-selection)
 - [Report](#report)
 - [Team](#team)
 - [License](#license)
 - [Contribution Form](#contribution-form)
 
-## Introduction <a name="introduction"></a>
+## Introduction 
 
 ## What are we doing
 
@@ -48,7 +51,9 @@ Our technology stack includes a variety of tools and frameworks, such as Node.js
 
   - ### Dataset
     The project involves the use of datasets related to tomato harvesting and machine learning.
-
+- [kaggle-Tomato Detection](https://www.kaggle.com/datasets/andrewmvd/tomato-detection)
+- [LaboroTomato](https://github.com/laboroai/LaboroTomato/tree/master)
+- [TomatOD](https://github.com/up2metric/tomatOD)
 ## Further Reading
 For additional reading, we recommend the following resources:
 
@@ -58,30 +63,84 @@ For additional reading, we recommend the following resources:
 
 ## Screenshots
 Here are some screenshots of our project:
-
+![Robot arm](ARM.jpg)
 ## Results
 [Include project results and achievements here.]
+
+
+## Robot Arm Design and Selection 
+
+In this section, we discuss key considerations for robot arm design and selection. We explore factors such as material, range of motion, and payload capacity. Additionally, we provide insights into the decision-making process and criteria for choosing an appropriate robot arm for tomato harvesting.
+
+### Robot Arm Design Factors
+
+- **Material:** Considerations for selecting materials that ensure durability and efficiency.
+- **Range of Motion:** Understanding the required range of motion for effective tomato harvesting.
+- **Payload Capacity:** Evaluating the robot arm's ability to handle the weight of harvested tomatoes.
+
+### Selection Criteria
+
+When choosing a robot arm for tomato harvesting, it's essential to take into account...
+
+![Robot Arm Design](C:\Users\M9\Desktop\Major_project\TomatoHarvesting\ROBOT_ARM\images/ARM.jpg)
+
+For more in-depth information on robot arm design, visit [Robot Design Info](https://www.thingiverse.com/thing:2465275)
+
 
 ## Report
 [Link to the detailed project report goes here.]
 
 ## Team
-The project team includes Mausam Gurung, Shubham Bista, Symon Shrestha, and Shalon Maharjan.
+
+The project team includes:
+
+- **Mausam Gurung**
+  - Role: Project Lead
+  - Responsibilities: Coordination and overall project management.
+  - GitHub: [MausamGurung](https://github.com/MausamGurung)
+  - LinkedIn: [Mausam Gurung](https://www.linkedin.com/in/mausamgurung/)
+
+- **Shubham Bista**
+  - Role: Machine Learning Specialist
+  - Responsibilities: Implementation of machine learning algorithms for tomato detection.
+  - GitHub: [ShubhamBista](https://github.com/ShubhamBista)
+  - LinkedIn: [Shubham Bista](https://www.linkedin.com/in/shubhambista/)
+
+- **Symon Shrestha**
+  - Role: Robotics Engineer
+  - Responsibilities: Design and implementation of the robot arm.
+  - GitHub: [SymonShrestha](https://github.com/SymonShrestha)
+  - LinkedIn: [Symon Shrestha](https://www.linkedin.com/in/symonshrestha/)
+
+- **Shalon Maharjan**
+  - Role: Data Scientist
+  - Responsibilities: Analysis of tomato harvesting datasets and model training.
+  - GitHub: [ShalonMaharjan](https://github.com/ShalonMaharjan)
+  - LinkedIn: [Shalon Maharjan](https://www.linkedin.com/in/shalonmaharjan/)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contribution Form
+
 To contribute to this project, please fill out the following form:
 
-- Name:
-- Email:
-- GitHub Username:
-- Contribution:
-- Reason for Contribution:
-- Additional Comments:
+- **Name:**
+- **Email:**
+- **GitHub Username:**
+- **Contribution:**
+  - Specify the area of contribution (e.g., bug fix, feature enhancement, documentation).
+- **Reason for Contribution:**
+  - Share briefly why you want to contribute to the project.
+- **Additional Comments:**
+  - Any additional information or questions you have.
 
-Feel free to use the code snippet below to directly link to a topic from the table of contents:
+We welcome contributions in the following areas:
+- Bug fixes
+- Feature additions
+- Documentation improvements
+- ...
 
-```md
-[Programming Language](#programming-language)
+Please follow our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+
