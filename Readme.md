@@ -12,7 +12,8 @@
   - [Dataset](#dataset)
 - [Dataset's ](#dataset)
 - [Further Reading](#further-reading)
-
+  - [YOLO](#YOLO:-You-Look-Only-Once)
+    
 - [Screenshots](#screenshots)
 - [Results](#results)
 - [Robot Arm Design and Selection](#robot-arm-design-and-selection)
@@ -24,8 +25,7 @@
 ## Introduction 
 
 ## What are we doing
-
-
+- To reduce the labour shortage on tomato harvesting.
 
 ## Base Research Papers
 1. K. N. T. H. a. M. I. Hiroaki Yaguchi, "Development of An Autonomous Tomato Harvesting Robot with," International Conference on Intelligent Robots and Systems (IROS), 2016. 
@@ -63,7 +63,9 @@ For additional reading, we recommend the following resources:
 - [Python Machine Learning](https://www.oreilly.com/library/view/python-machine-learning/9781789955750/)
 - [Introduction to 6DOF Robotic Arms with Python](https://www.robotshop.com/community/tutorials/show/introduction-to-6dof-robotic-arms-with-python)
 - [MongoDB: The Definitive Guide](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954461/)
-
+### YOLO: You Look Only Once 
+- [yolo foundation](https://www.youtube.com/watch?v=zgbPj4lSc58&list=PL1u-h-YIOL0sZJsku-vq7cUGbqDEeDK0a)
+- [yolov4-tiny](https://www.youtube.com/watch?v=XaYRY4EM6is&t=625s)
 ## Screenshots
 Here are some screenshots of our project:
 ![Robot arm](ARM.jpg)
